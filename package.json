@@ -1,6 +1,6 @@
 {
   "name": "nwb-react-docgen",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "nwb-react-docgen React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -27,11 +27,20 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Alasdair McLeay",
+  "homepage": "https://github.com/penx/nwb-react-docgen#readme",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/nwb-react-docgen.git"
+  },
   "keywords": [
     "react-component"
-  ]
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "bugs": {
+    "url": "https://github.com/penx/nwb-react-docgen/issues"
+  }
 }
